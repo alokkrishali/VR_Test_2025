@@ -1,0 +1,14 @@
+*.psd
+.DS_Store
+*.meta
+**/Library/*
+**/Temp/*
+obj/Debug
+.vs
+BasketBall2D.sln
+*.csproj
+Logs
+Logs/*
+.log
+Android Build
+Android Build/*
